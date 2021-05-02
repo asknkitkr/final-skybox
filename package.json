@@ -1,0 +1,19 @@
+{
+  "name": "skybox",
+  "version": "1.0.0",
+  "description": "MERN stack Web Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asknkitkr/project-skybox.git"
+  },
+  "author": "Ankit Mohit Tushar Gazal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asknkitkr/project-skybox/issues"
+  },
+  "homepage": "https://github.com/asknkitkr/project-skybox#readme"
+}
